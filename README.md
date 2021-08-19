@@ -1,6 +1,6 @@
 # aula_clean
 
-A new Flutter project.
+Clean Achitecture
 
 ## Getting Started
 
